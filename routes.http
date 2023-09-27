@@ -1,0 +1,3 @@
+# @name list-heros
+
+GET http://homologacao3.azapfy.com.br/api/ps/metahumans
