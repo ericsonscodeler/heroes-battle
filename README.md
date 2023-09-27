@@ -25,6 +25,6 @@ bun dev
 * React
 * NextJS
 * TypeScript
-* Shadcn
+* Shadcn UI
 * Tailwind
 * Zustand
