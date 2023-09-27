@@ -1,3 +1,10 @@
+## Desafio Jornada do Herói
+
+📦 Requisitos
+
+* Listagem de heróis
+* Filtro de heróis
+* Sistema de combate
 
 ## Getting Started
 
@@ -5,15 +12,15 @@ Iniciar o projeto.
 
 ```bash
 npm run dev
-# or
+-
 yarn dev
-# or
+-
 pnpm dev
-# or
+-
 bun dev
 ```
 
-## Ferramentas Utilizadas
+## 🛠️ Ferramentas Utilizadas
 
 * React
 * NextJS
