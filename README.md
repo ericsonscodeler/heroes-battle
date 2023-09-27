@@ -1,6 +1,6 @@
 ## Desafio Jornada do Herói
 
-## Requisitos
+## 📦 Requisitos
 
 * Listagem de heróis
 * Filtro de heróis
